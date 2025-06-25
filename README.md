@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## This is Karuppaiah chellapandi, i am a DevOps Engineer 😍.
+## Having 4 Years of Working Experience 🥰.
+## Tools - Azure Devops CI/CD, Terraform, GitHub, K8s, Docker, Ansible.
+
+## 👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻🌹🌹🌹🌹🌹🦚🦚🦚🦚🦚
+
 <!--
 **karuppaiah2593/karuppaiah2593** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
